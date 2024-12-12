@@ -1,0 +1,58 @@
+{
+  "primewebseries": [
+      {
+          "id": 1,
+          "name": "Dasara",
+          "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Dasara_%28soundtrack%29.jpg",
+          "trending": "Top 5",
+          "genre": "Action",
+          "Quality": "HD",
+          "likes": "100"
+      },
+      {
+          "id": 2,
+          "name": "HIT:The 2nd Case",
+          "image": "https://i.ytimg.com/vi/V3wJ4SzgNwg/maxresdefault.jpg",
+          "trending": "Top 10",
+          "genre": "Crime",
+          "Quality": "HD",
+          "likes": "250"
+      },
+      {
+          "id": 3,
+          "name": "Kalki 2898 AD",
+          "image": "https://variety.com/wp-content/uploads/2024/07/Kalki-2898AD-Karna.jpg?w=1000&h=667&crop=1",
+          "trending": "Top 3",
+          "genre": "Sci-Fi",
+          "Quality": "HD",
+          "likes": "300"
+      },
+      {
+          "id": 4,
+          "name": "RRR",
+          "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+          "trending": "Top 1",
+          "genre": "Action",
+          "Quality": "HD",
+          "likes": "500"
+      },
+      {
+          "id": 5,
+          "name": "Pushpa: The Rise",
+          "image": "https://img.etimg.com/thumb/width-1600,height-900,imgsize-91384,resizemode-75,msid-96687314/magazines/panache/pushpa-the-rise-raises-10-million-rubles-at-russia-box-office.jpg",
+          "trending": "Top 4",
+          "genre": "Drama",
+          "Quality": "HD",
+          "likes": "350"
+      },
+      {
+          "id": 6,
+          "name": "Sita Ramam",
+          "image": "https://i.scdn.co/image/ab67616d00001e0285efa87a5eafe030b2495b7e",
+          "trending": "Top 6",
+          "genre": "Romance",
+          "Quality": "HD",
+          "likes": "200"
+      }
+  ]
+}
